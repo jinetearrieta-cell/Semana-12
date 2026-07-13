@@ -1,0 +1,12 @@
+1. Un ciudadano crea una causa ingresando el título y la descripción.
+
+2. El sistema guarda la información en la base de datos.
+
+3. La causa aparece publicada para que otros ciudadanos la vean.
+
+4. Los ciudadanos interesados apoyan la causa registrando su nombre.
+
+5. El sistema cuenta automáticamente la cantidad de apoyos recibidos.
+
+6. Cuando se necesita, el sistema genera un documento pdf con la 
+petición y el número de apoyos para presentarla ante la entidad correspondiente.
